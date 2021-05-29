@@ -1,2 +1,4 @@
 Osoba1: Patryk L
 Osoba2:Patryk B
+Osoba3: Pawel K
+
